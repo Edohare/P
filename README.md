@@ -1,5 +1,5 @@
 # MLP
-Machine Learning Portfolio
+Data Science and Machine Learning Portfolio
 
 This is my machine learning portfolio.
 
