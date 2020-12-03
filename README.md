@@ -1,3 +1,5 @@
+CLICK THE FOLDERS TO SEE PROJECTS
+
 # MLP
 Data Science and Machine Learning Portfolio
 
