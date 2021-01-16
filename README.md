@@ -1,4 +1,5 @@
 CLICK THE FOLDERS TO SEE PROJECTS
+(CLICK "VIEW CODE" IF YOU DO NOT SEE PROJECT FOLDER)
 
 # MLP
 Data Science and Machine Learning Portfolio
